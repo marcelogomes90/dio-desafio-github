@@ -45,4 +45,11 @@ O comando **git status** exibe a lista de arquivos alterados juntamente com os a
 
 >  git pull
 
-Para mesclar todas as alterações presentes no repositório remoto para o diretório de trabalho local, o comando __git pull__ é usado.
+Para mesclar todas as alterações presentes no repositório remoto para o diretório de trabalho local, o comando __git pull__ é usado.<br><br/>
+
+### Links Úteis<br<br/>
+
+* [Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+* [Documentação Git](https://git-scm.com/docs/git-commit/pt_BR)
+* [Guia básico Git e Github para iniciantes](https://dev.to/womakerscode/git-e-github-guia-rapido-e-comandos-basicos-para-iniciantes-4ile)
+* [Editor de texto Typora](https://typora.io/)
