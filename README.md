@@ -1,6 +1,6 @@
 # Desafio de Projeto Git/Github da DIO 🎓
 
-Repositório criado para o Desafio de Projeto
+Repositório criado para o Desafio de Projeto<br><br/>
 
 ### Tópico de aprendizado Git/Github<br><br/>
 
@@ -21,28 +21,28 @@ Um dos comandos git mais usados é o **git config** que pode ser usado para defi
 
 >  git init
  
-Este comando é usado para criar um novo repositório GIT.
-<br><br/>
+Este comando é usado para criar um novo repositório GIT.<br><br/>
+
 >  git add
 
-O comando **git add** pode ser usado para adicionar arquivos ao índice. Por exemplo, o seguinte comando irá adicionar um arquivo chamado temp.txt presente no diretório local para o índice.
-<br><br/>
+O comando **git add** pode ser usado para adicionar arquivos ao índice. Por exemplo, o seguinte comando irá adicionar um arquivo chamado temp.txt presente no diretório local para o índice.<br><br/>
+
 >  git clone
 
-O comando __git clone__ é um utilitário de linha de comando que é usado para selecionar um repositório existente e criar um clone ou cópia do repositório de destino.
-<br><br/>
+O comando __git clone__ é um utilitário de linha de comando que é usado para selecionar um repositório existente e criar um clone ou cópia do repositório de destino.<br><br/>
+
 >  git commit –m “coloque sua mensagem aqui”
 
-O comando **git commit** é usado para confirmar as alterações na cabeça. Tenha em atenção que quaisquer alterações efetuadas não irão para o repositório remoto.
-<br><br/>
+O comando **git commit** é usado para confirmar as alterações na cabeça. Tenha em atenção que quaisquer alterações efetuadas não irão para o repositório remoto.<br><br/>
+
 >  git status
 
-O comando **git status** exibe a lista de arquivos alterados juntamente com os arquivos que ainda não foram adicionados ou confirmados.
-<br><br/>
+O comando **git status** exibe a lista de arquivos alterados juntamente com os arquivos que ainda não foram adicionados ou confirmados.<br><br/>
+
 >  git push
 
-**git push** é outro dos comandos git básicos mais usados. Um simples envio envia as alterações feitas para o ramo mestre do repositório remoto associado ao diretório de trabalho.
-<br><br/>
+**git push** é outro dos comandos git básicos mais usados. Um simples envio envia as alterações feitas para o ramo mestre do repositório remoto associado ao diretório de trabalho.<br><br/>
+
 >  git pull
 
-Para mesclar todas as alterações presentes no repositório remoto para o diretório de trabalho local, o comando __git pull__ é usado. 
+Para mesclar todas as alterações presentes no repositório remoto para o diretório de trabalho local, o comando __git pull__ é usado.
