@@ -11,14 +11,14 @@ Repositório criado para o Desafio de Projeto
 5. Primeiros comandos com Git
 6. Ciclo de vida dos arquivos
 7. Introdução ao Github
-8. Resolvendo conflitos
+8. Resolvendo conflitos<br><br/>
 
 ### Principais comandos git e suas funcionalidades<br><br/>
 
 >  git config --global user.email "seu email aqui"
 
-Um dos comandos git mais usados é o **git config** que pode ser usado para definir valores de configuração específicos do usuário como e-mail, algoritmo preferido para diff, nome de usuário e formato de arquivo etc. Por exemplo, o seguinte comando pode ser usado para definir o email.
-<br><br/>
+Um dos comandos git mais usados é o **git config** que pode ser usado para definir valores de configuração específicos do usuário como e-mail, algoritmo preferido para diff, nome de usuário e formato de arquivo etc. Por exemplo, o seguinte comando pode ser usado para definir o email.<br><br/>
+
 >  git init
  
 Este comando é usado para criar um novo repositório GIT.
