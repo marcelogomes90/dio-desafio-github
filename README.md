@@ -2,8 +2,20 @@
 
 Repositório criado para o Desafio de Projeto
 
-#### Principais comandos e suas funcionalidades aprendidas no curso:
-<br><br/>
+### Tópico de aprendizado Git/Github
+
+1. Introdução ao Git
+2. Navegação via linha de comando
+3. Instalação do Git
+4. Entenda como funciona o Git
+5. Primeiros comandos com Git
+6. Ciclo de vida dos arquivos
+7. Introdução ao Github
+8. Resolvendo conflitos
+
+### Principais comandos git e suas funcionalidades:
+
+
 >  git config --global user.email "seu email aqui"
 
 Um dos comandos git mais usados é o **git config** que pode ser usado para definir valores de configuração específicos do usuário como e-mail, algoritmo preferido para diff, nome de usuário e formato de arquivo etc. Por exemplo, o seguinte comando pode ser usado para definir o email.
