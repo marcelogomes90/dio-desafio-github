@@ -2,7 +2,7 @@
 
 Repositório criado para o Desafio de Projeto
 
-### Tópico de aprendizado Git/Github
+### Tópico de aprendizado Git/Github<br><br/>
 
 1. Introdução ao Git
 2. Navegação via linha de comando
@@ -13,8 +13,7 @@ Repositório criado para o Desafio de Projeto
 7. Introdução ao Github
 8. Resolvendo conflitos
 
-### Principais comandos git e suas funcionalidades:
-
+### Principais comandos git e suas funcionalidades<br><br/>
 
 >  git config --global user.email "seu email aqui"
 
